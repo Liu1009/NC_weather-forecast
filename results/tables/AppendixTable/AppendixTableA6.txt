@@ -1,0 +1,8 @@
+	(1)	(2)
+VARIABLES	l_visit_pop	l_Expense_total_pop
+		
+		
+Observations	690,936	690,936
+R-squared	0.605	0.375
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
